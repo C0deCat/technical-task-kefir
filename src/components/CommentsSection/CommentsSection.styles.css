@@ -1,0 +1,8 @@
+.commentsSection {
+    display: flex;
+    flex-direction: column;
+    flex-basis: 560px;
+    padding-top: 50px;
+    padding-left: 24px;
+    padding-right: 24px;
+}

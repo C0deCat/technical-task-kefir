@@ -1,0 +1,10 @@
+.background {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    background-image: url("../../assets/system/background.png");
+    background-size: cover;
+    background-position: top;
+    display: flex;
+    justify-content: center;
+}
